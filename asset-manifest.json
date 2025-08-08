@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Form_Builder/static/css/main.f8db227a.css",
+    "main.js": "/Form_Builder/static/js/main.4a58d895.js",
+    "index.html": "/Form_Builder/index.html",
+    "main.f8db227a.css.map": "/Form_Builder/static/css/main.f8db227a.css.map",
+    "main.4a58d895.js.map": "/Form_Builder/static/js/main.4a58d895.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8db227a.css",
+    "static/js/main.4a58d895.js"
+  ]
+}
